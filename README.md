@@ -1,26 +1,68 @@
-# SQL Project: Pizza Sales Analysis
+# 🍕 Pizza Sales SQL Analytics
 
-## Overview
+## 📌 Project Overview
 
-This project focuses on analyzing pizza sales data using SQL queries to extract key business insights. The analysis covers various aspects of sales, customer behavior, and operational efficiency, providing a data-driven understanding of the pizza business.
+This project focuses on performing business-oriented sales analysis using SQL on a pizza sales dataset. The goal was to extract operational and revenue insights through structured querying, aggregation, joins, and analytical functions.
 
-## Key Features
+The project explores customer ordering behavior, product performance, revenue contribution, and sales distribution trends.
 
-* [cite_start]**Sales Performance**: Calculate total orders and revenue[cite: 3, 13, 14, 35].
-* [cite_start]**Product Insights**: Identify best-selling pizza types and sizes[cite: 4, 5, 17, 19, 20, 36, 37].
-* [cite_start]**Revenue Contribution**: Determine the financial impact of different pizza categories and types[cite: 10, 11, 12, 39, 40].
-* [cite_start]**Operational Analysis**: Understand order distribution by time and average daily orders[cite: 7, 9, 26, 38].
-* [cite_start]**Category-wise Analysis**: Explore distribution and top performers within each pizza category[cite: 6, 8, 23, 28, 33, 40].
+---
 
-## Technologies Used
+## 🔍 Business Questions Solved
 
-* SQL (for data querying and analysis)
+- Total orders placed
+- Total revenue generated
+- Highest-priced pizza identification
+- Most commonly ordered pizza size
+- Top-performing pizza categories
+- Revenue contribution by pizza type
+- Hourly order distribution analysis
+- Daily average order analysis
+- Cumulative revenue trend analysis
+- Top revenue-generating pizzas by category
 
-## Project Structure
+---
 
-The project primarily consists of SQL queries designed to answer specific business questions related to pizza sales.
+## 🛠 Tech Stack
 
-## Getting Started
+- SQL
+- MySQL
+- Aggregate Functions
+- JOIN Operations
+- Subqueries
+- Window Functions
+- Grouping & Sorting
 
-To explore this project, you will need a SQL environment to run the provided queries against a similar pizza sales dataset.
+---
 
+## 📊 Key Insights
+
+- Identified peak order hours and high-demand pizza categories
+- Analyzed revenue contribution across pizza types
+- Discovered customer preference trends by size and category
+- Built cumulative revenue analysis using SQL window functions
+
+---
+
+## 📂 Project Components
+
+- SQL queries for business problem-solving
+- Revenue and operational analysis
+- Structured analytical reporting
+- Query-based insight extraction
+
+---
+
+## 🚀 Learning Outcome
+
+This project strengthened my understanding of:
+- SQL querying
+- Relational data analysis
+- Business-focused analytics
+- Data aggregation and reporting logic
+
+---
+
+## 📎 Reference
+
+The project includes analytical SQL queries and summarized outputs inside the attached project documentation.
